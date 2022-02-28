@@ -1,16 +1,15 @@
-{
-    "User1": {
-			"Name": "Iceelus",
-			"Id": 109830895,
-			"Rank": "Developer"
-      "LoginUser": "testing123testing"
-      "LoginPass": "CantBeSameAsUser"
-		}
-    "User2": {
-			"Name": "opzln",
-			"Id": 1500002856,
-			"Rank": "Game Owner"
-      "LoginUser": "opisgay"
-      "LoginPass": "opissupergay"
-		}
-}
+"User1": {
+	"Name": "Iceelus",
+	"Id": 109830895,
+	"Rank": "Developer"
+	"LoginUser": "testing123testing"
+	"LoginPass": "CantBeSameAsUser"
+	}
+	
+"User2": {
+	"Name": "opzln",
+	"Id": 1500002856"
+	"Rank": "Game Owner"
+	"LoginUser": "opisgay"
+	"LoginPass": "opissupergay"
+	}
