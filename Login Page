@@ -8,9 +8,21 @@
         },
         "opzln": {
             "Id": 1500002856,
-            "Rank": "Creator",
+            "Rank": "Game Creator",
             "LoginUser": "opisgay",
             "LoginPass": "opissupergay"
+        },
+        "Criminality_exe": {
+            "Id": 2978303121,
+            "Rank": "Trial Admin",
+            "LoginUser": "Criminality_exe",
+            "LoginPass": "cocoa16"
+        },
+        "F_luidz": {
+            "Id": 1915547465,
+            "Rank": "Admin",
+            "LoginUser": "2Frosty4You1s",
+            "LoginPass": "Frosty4921"
         }
     }
 ]
