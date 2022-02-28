@@ -4,7 +4,7 @@
 		"Id": 109830895,
 		"Rank": "Developer",
 		"LoginUser": "testing123testing",
-		"LoginPass": "CantBeSameAsUser"
+		"LoginPass": "CantBeSameAsUser",
 	}
 	
 	"User": {
@@ -12,6 +12,6 @@
 		"Id": 1500002856,
 		"Rank": "Game Owner",
 		"LoginUser": "opisgay",
-		"LoginPass": "opissupergay"
+		"LoginPass": "opissupergay",
 	}
 }
