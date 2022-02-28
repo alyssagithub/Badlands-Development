@@ -7,7 +7,7 @@
             "LoginUser": "testing123testing",
             "LoginPass": "CantBeSameAsUser"
         },
-        "User2": {
+        "User": {
             "Name": "opzln",
             "Id": 1500002856,
             "Rank": "Creator",
