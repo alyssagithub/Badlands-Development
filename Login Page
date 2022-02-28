@@ -1,18 +1,18 @@
 [
-{
-	{
-		"Name": "Iceelus",
-		"Id": 109830895,
-		"Rank": "Developer",
-		"LoginUser": "testing123testing",
-		"LoginPass": "CantBeSameAsUser"
-	},
-	{
-		"Name": "opzln",
-		"Id": 1500002856,
-		"Rank": "Creator",
-		"LoginUser": "opisgay",
-		"LoginPass": "opissupergay"
-	}
-}
+    {
+        "User": {
+            "Name": "Iceelus",
+            "Id": 109830895,
+            "Rank": "Developer",
+            "LoginUser": "testing123testing",
+            "LoginPass": "CantBeSameAsUser"
+        },
+        "User2": {
+            "Name": "opzln",
+            "Id": 1500002856,
+            "Rank": "Creator",
+            "LoginUser": "opisgay",
+            "LoginPass": "opissupergay"
+        }
+    }
 ]
