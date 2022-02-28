@@ -7,7 +7,7 @@
 		"LoginPass": "CantBeSameAsUser"
 	},
 	
-	"User": {
+	"User2": {
 		"Name": "opzln",
 		"Id": 1500002856,
 		"Rank": "Game Owner",
