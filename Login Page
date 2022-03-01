@@ -35,6 +35,12 @@
             "Rank": "Admin",
             "LoginUser": "KDPofficialYT",
             "LoginPass": "twocat7"
+        },
+        "Tazanity": {
+            "Id": 128766360,
+            "Rank": "Developer",
+            "LoginUser": "taz",
+            "LoginPass": "vex"
         }
     }
 ]
